@@ -1,6 +1,3 @@
-//na class controller criamos métodos que vão controlar a lógica das nossas requisições e respostas, validação de possíveis erros de requisição tambem.
-
-
 const Calculadora = require("../model/Calculadora");
 
 class CalculadoraController {
